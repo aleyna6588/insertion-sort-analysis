@@ -1,0 +1,8 @@
+Topological Sorting Results
+===========================
+
+Method A - Kahn's Algorithm:
+A -> B -> C -> D -> E -> F -> H -> G
+
+Method B - DFS-Based Topological Sort:
+B -> D -> A -> C -> E -> H -> F -> G
